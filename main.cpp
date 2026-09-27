@@ -1,6 +1,7 @@
 #include <iostream>
+#include "map/Cell.h"
 using namespace std;
 
 int main(){
-    reutrn 0; 
+    return 0; 
 }
