@@ -153,6 +153,30 @@ src/core/Cell.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/treasure_hunt.dir/build.make CMakeFiles/treasure_hunt.dir/src/core/Cell.cpp.s
 .PHONY : src/core/Cell.cpp.s
 
+src/core/Map.o: src/core/Map.cpp.o
+.PHONY : src/core/Map.o
+
+# target to build an object file
+src/core/Map.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/treasure_hunt.dir/build.make CMakeFiles/treasure_hunt.dir/src/core/Map.cpp.o
+.PHONY : src/core/Map.cpp.o
+
+src/core/Map.i: src/core/Map.cpp.i
+.PHONY : src/core/Map.i
+
+# target to preprocess a source file
+src/core/Map.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/treasure_hunt.dir/build.make CMakeFiles/treasure_hunt.dir/src/core/Map.cpp.i
+.PHONY : src/core/Map.cpp.i
+
+src/core/Map.s: src/core/Map.cpp.s
+.PHONY : src/core/Map.s
+
+# target to generate assembly for a file
+src/core/Map.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/treasure_hunt.dir/build.make CMakeFiles/treasure_hunt.dir/src/core/Map.cpp.s
+.PHONY : src/core/Map.cpp.s
+
 src/main.o: src/main.cpp.o
 .PHONY : src/main.o
 
@@ -189,6 +213,9 @@ help:
 	@echo "... src/core/Cell.o"
 	@echo "... src/core/Cell.i"
 	@echo "... src/core/Cell.s"
+	@echo "... src/core/Map.o"
+	@echo "... src/core/Map.i"
+	@echo "... src/core/Map.s"
 	@echo "... src/main.o"
 	@echo "... src/main.i"
 	@echo "... src/main.s"

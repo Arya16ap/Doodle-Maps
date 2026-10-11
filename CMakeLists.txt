@@ -7,6 +7,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 add_executable(treasure_hunt
     src/main.cpp
     src/core/Cell.cpp
+    src/core/Map.cpp
 )
 
 target_include_directories(treasure_hunt PRIVATE include)

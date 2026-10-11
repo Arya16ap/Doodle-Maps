@@ -85,12 +85,12 @@ clean: CMakeFiles/treasure_hunt.dir/clean
 CMakeFiles/treasure_hunt.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/treasure_hunt.dir/build.make CMakeFiles/treasure_hunt.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/treasure_hunt.dir/build.make CMakeFiles/treasure_hunt.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/aryadeshmukh/Documents/projectc/build/CMakeFiles --progress-num=1,2,3 "Built target treasure_hunt"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/aryadeshmukh/Documents/projectc/build/CMakeFiles --progress-num=1,2,3,4 "Built target treasure_hunt"
 .PHONY : CMakeFiles/treasure_hunt.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/treasure_hunt.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/aryadeshmukh/Documents/projectc/build/CMakeFiles 3
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/aryadeshmukh/Documents/projectc/build/CMakeFiles 4
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/treasure_hunt.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/aryadeshmukh/Documents/projectc/build/CMakeFiles 0
 .PHONY : CMakeFiles/treasure_hunt.dir/rule
@@ -102,7 +102,7 @@ treasure_hunt: CMakeFiles/treasure_hunt.dir/rule
 # codegen rule for target.
 CMakeFiles/treasure_hunt.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/treasure_hunt.dir/build.make CMakeFiles/treasure_hunt.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/aryadeshmukh/Documents/projectc/build/CMakeFiles --progress-num=1,2,3 "Finished codegen for target treasure_hunt"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/aryadeshmukh/Documents/projectc/build/CMakeFiles --progress-num=1,2,3,4 "Finished codegen for target treasure_hunt"
 .PHONY : CMakeFiles/treasure_hunt.dir/codegen
 
 # clean rule for target.

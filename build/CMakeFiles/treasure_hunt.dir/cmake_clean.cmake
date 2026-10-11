@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/treasure_hunt.dir/src/core/Cell.cpp.o"
   "CMakeFiles/treasure_hunt.dir/src/core/Cell.cpp.o.d"
+  "CMakeFiles/treasure_hunt.dir/src/core/Map.cpp.o"
+  "CMakeFiles/treasure_hunt.dir/src/core/Map.cpp.o.d"
   "CMakeFiles/treasure_hunt.dir/src/main.cpp.o"
   "CMakeFiles/treasure_hunt.dir/src/main.cpp.o.d"
   "treasure_hunt"
