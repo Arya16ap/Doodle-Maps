@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/treasure_hunt.dir/src/main.cpp.o CMakeFiles/treasure_hunt.dir/src/core/Cell.cpp.o -o treasure_hunt

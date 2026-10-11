@@ -1,0 +1,3 @@
+/Users/aryadeshmukh/Documents/projectc/build/CMakeFiles/treasure_hunt.dir
+/Users/aryadeshmukh/Documents/projectc/build/CMakeFiles/edit_cache.dir
+/Users/aryadeshmukh/Documents/projectc/build/CMakeFiles/rebuild_cache.dir
